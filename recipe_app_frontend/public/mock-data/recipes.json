@@ -1,0 +1,132 @@
+[
+  {
+    "id": "r1",
+    "title": "Lemon Garlic Salmon",
+    "time": 25,
+    "categories": ["Seafood", "Dinner", "Healthy"],
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=1200&auto=format&fit=crop",
+    "ingredients": [
+      "2 salmon fillets",
+      "2 cloves garlic, minced",
+      "1 lemon, sliced",
+      "1 tbsp olive oil",
+      "Salt & pepper to taste",
+      "Fresh dill"
+    ],
+    "steps": [
+      "Preheat oven to 400°F (200°C).",
+      "Place salmon on a lined baking sheet.",
+      "Drizzle with olive oil, add minced garlic, and season with salt & pepper.",
+      "Top with lemon slices and fresh dill.",
+      "Bake for 12–15 minutes until flaky."
+    ]
+  },
+  {
+    "id": "r2",
+    "title": "Creamy Mushroom Pasta",
+    "time": 30,
+    "categories": ["Pasta", "Vegetarian", "Comfort"],
+    "image": "https://images.unsplash.com/photo-1523986371872-9d3ba2e2f642?q=80&w=1200&auto=format&fit=crop",
+    "ingredients": [
+      "200g fettuccine",
+      "2 cups mushrooms, sliced",
+      "2 cloves garlic, minced",
+      "1 cup heavy cream",
+      "1/2 cup grated parmesan",
+      "2 tbsp butter",
+      "Salt & pepper"
+    ],
+    "steps": [
+      "Cook pasta until al dente.",
+      "Sauté mushrooms in butter until golden.",
+      "Add garlic and cook 1 minute.",
+      "Pour in cream; simmer to thicken.",
+      "Stir in parmesan; season to taste.",
+      "Combine with pasta and serve."
+    ]
+  },
+  {
+    "id": "r3",
+    "title": "Avocado Toast with Egg",
+    "time": 10,
+    "categories": ["Breakfast", "Healthy", "Quick"],
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=1200&auto=format&fit=crop",
+    "ingredients": [
+      "2 slices sourdough bread",
+      "1 ripe avocado",
+      "1 egg",
+      "Chili flakes",
+      "Salt & pepper",
+      "Olive oil"
+    ],
+    "steps": [
+      "Toast bread to your preference.",
+      "Mash avocado with salt, pepper, and a drizzle of olive oil.",
+      "Fry an egg sunny-side up.",
+      "Spread avocado on toast, top with egg.",
+      "Sprinkle chili flakes and serve."
+    ]
+  },
+  {
+    "id": "r4",
+    "title": "Grilled Chicken Bowl",
+    "time": 35,
+    "categories": ["Chicken", "Dinner", "Healthy"],
+    "image": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?q=80&w=1200&auto=format&fit=crop",
+    "ingredients": [
+      "2 chicken breasts",
+      "1 cup brown rice",
+      "1 cup broccoli florets",
+      "1/2 cup corn",
+      "Teriyaki sauce",
+      "Sesame seeds"
+    ],
+    "steps": [
+      "Cook brown rice per package instructions.",
+      "Grill chicken and slice.",
+      "Steam broccoli.",
+      "Assemble bowl with rice, chicken, broccoli, and corn.",
+      "Drizzle teriyaki sauce and sprinkle sesame seeds."
+    ]
+  },
+  {
+    "id": "r5",
+    "title": "Berry Yogurt Parfait",
+    "time": 8,
+    "categories": ["Dessert", "Breakfast", "Healthy"],
+    "image": "https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea?q=80&w=1200&auto=format&fit=crop",
+    "ingredients": [
+      "1 cup Greek yogurt",
+      "1/2 cup mixed berries",
+      "Granola",
+      "Honey"
+    ],
+    "steps": [
+      "Layer yogurt, berries, and granola in a glass.",
+      "Drizzle with honey.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "id": "r6",
+    "title": "Classic Margherita Pizza",
+    "time": 20,
+    "categories": ["Pizza", "Vegetarian", "Dinner"],
+    "image": "https://images.unsplash.com/photo-1548365328-8b849c1b244d?q=80&w=1200&auto=format&fit=crop",
+    "ingredients": [
+      "Pizza dough",
+      "Tomato sauce",
+      "Fresh mozzarella",
+      "Fresh basil",
+      "Olive oil",
+      "Salt"
+    ],
+    "steps": [
+      "Preheat oven to highest setting.",
+      "Spread sauce on rolled dough.",
+      "Top with mozzarella and basil.",
+      "Bake until crust is crisp and cheese melts.",
+      "Finish with olive oil and a pinch of salt."
+    ]
+  }
+]
